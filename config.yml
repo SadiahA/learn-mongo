@@ -1,0 +1,6 @@
+storage:
+  dbPath: /Users/sadiah.ahmed/Workspace/Project/LearnMongo/data 
+  journal:
+    enabled: true
+  mmapv1:
+    smallFiles: true
