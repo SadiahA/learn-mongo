@@ -1,5 +1,5 @@
 storage:
-  dbPath: /Users/sadiah.ahmed/Workspace/Project/LearnMongo/data 
+  dbPath: /Users/sadiah.ahmed/Workspace/Project/learn-mongo/data
   journal:
     enabled: true
   mmapv1:
